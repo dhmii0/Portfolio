@@ -1,5 +1,3 @@
-Live Demo : https://github.com/dhmii0/Portfolio/
-
 # How to run
 
 Note: You need `Node.js` and `npm` installed on your machine.
